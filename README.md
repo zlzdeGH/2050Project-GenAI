@@ -1,4 +1,4 @@
-# Data Science Practicum Project Proposal Template
+# Data Science Practicum Project Proposal
 Project Sponsor: [Contact Name]
 Student: [Student Name]
 ## Context
