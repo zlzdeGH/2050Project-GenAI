@@ -1,0 +1,25 @@
+PRIMARY_KEYWORDS = [
+    'ai policy', 'aigenerated content', 'ai-generated', 'ai-assisted',
+    'generative ai', 'llm',
+]
+AI_CONTEXT_WORDS = [
+    'ai', 'artificial intelligence', 'generative', 'chatgpt', 'llm', 'copilot', 'bard', 
+    'large language model' ,
+    'gemini', 'dall-e', 'gpt', 'midjourney', 'stable diffusion', 'ai tool', 'ai tools'
+]
+POLICY_KEYWORDS = [
+    'academic integrity', 'academic dishonesty', 'plagiarism', 'cheating', 'unauthorized',
+    'unauthorized use', 'unauthorized assistance', 'citation', 'cite', 'attribution',
+    'acknowledge', 'permitted', 'allowed', 'prohibited', 'forbidden', 'disclosure', 
+    'ethical use', 'responsible use', 'use', 'using', 'assistance', 'help', 'guidance', 
+    'policy', 'rule'
+]
+
+
+
+
+DEPARTMENT_MAP = {
+    'Economics': 'ECON', 'Computer Science': 'CSCI', 'Applied Mathematics': 'APMA',
+    'Public Health': 'PHP', 'Africana Studies': 'AFRI',
+    'Cognitive, Linguistic, and Psychological Sciences': 'CLPS',
+}
